@@ -10,7 +10,7 @@ import java.util.Scanner;
  * Salida de datos: letra es correcta o no
  */
 
-public class UD4T13_Paola {
+public class UD4T13_VFaberoAmaya_opPaola {
     public static void main (String[] args){
         /*
         ------DEFINICION Y ASIGNACION------
