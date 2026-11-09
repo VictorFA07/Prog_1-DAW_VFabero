@@ -1,3 +1,11 @@
+/*
+ * Programa que calcula el coste de envío de un paquete esn base a su destino, peso y, si es urgente o no.
+ * Hecho por Víctor Fabero Amaya
+ * Datos de entrada: nombre destinatario, zona de entrega, peso del paquete y urgencia de la entrega.
+ * Datos de salida: tarifa base, recargo de peso, recargo de urgencia, total.
+ * 20261109
+ */
+
 import java.util.Scanner;
 
 public class EnvioPaquete {
