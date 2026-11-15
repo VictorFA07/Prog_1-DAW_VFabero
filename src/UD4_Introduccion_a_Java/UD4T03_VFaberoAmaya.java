@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee la longitud de un radio y muestra la longitud de la circunferencia, el área del círculo y el volumen de una esfera que tiene ese radio.
 20261023
 Hecho por Víctor Fabero Amaya

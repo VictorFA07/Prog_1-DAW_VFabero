@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;
+package UD4_Introduccion_a_Java;
 
 import java.util.Scanner;
 /**

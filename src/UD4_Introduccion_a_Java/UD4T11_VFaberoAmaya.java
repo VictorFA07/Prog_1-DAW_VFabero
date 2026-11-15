@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee los coeficientes a, b y c de la ecuación ax² + bx + c = 0 y muestra sus soluciones reales, con dos decimales.
 20261105
 Hecho por Víctor Fabero Amaya

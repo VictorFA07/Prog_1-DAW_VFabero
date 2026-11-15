@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java.Examen;/*
+package UD4_Introduccion_a_Java.Examen;/*
  * Programa que calcula el coste de envío de un paquete esn base a su destino, peso y, si es urgente o no.
  * Hecho por Víctor Fabero Amaya
  * Datos de entrada: nombre destinatario, zona de entrega, peso del paquete y urgencia de la entrega.

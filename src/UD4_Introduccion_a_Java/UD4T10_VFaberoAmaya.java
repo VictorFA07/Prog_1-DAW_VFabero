@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que calcula el salario neto semanal, el bruto y los impuestos de un trabajador en función de las horas trabajadas y de la tarifa por hora.
 20261105
 Hecho por Víctor Fabero Amaya

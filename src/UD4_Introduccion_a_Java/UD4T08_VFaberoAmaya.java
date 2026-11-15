@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee una calificación numérica entre 0 y 10 y la transforma en calificación alfabética.
 20261030
 Hecho por Víctor Fabero Amaya

@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que, dado el precio de un artículo y su precio de venta real, muestra el porcentaje de descuento que se ha aplicado.
 20261030
 Hecho por Víctor Fabero Amaya

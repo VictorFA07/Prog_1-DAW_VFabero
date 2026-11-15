@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que pide la edad por teclado y muestra el mensaje «Eres mayor de edad» o el mensaje «Eres menor de edad», según corresponde.
 20261030
 Hecho por Víctor Fabero Amaya

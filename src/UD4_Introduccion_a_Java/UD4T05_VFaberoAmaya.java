@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee una distancia en millas marinas y la muestra en metros, sabiendo que una milla marina equivale a 1852 metros.
 20261030
 Hecho por Víctor Fabero Amaya

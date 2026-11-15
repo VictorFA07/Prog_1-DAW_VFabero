@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee una hora expresada en horas, minutos y segundos, calcula y muestre la hora que será un segundo después.
 20261030
 Hecho por Víctor Fabero Amaya

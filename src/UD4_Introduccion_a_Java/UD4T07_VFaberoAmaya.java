@@ -1,4 +1,4 @@
-package UD4_Introducción_a_Java;/*
+package UD4_Introduccion_a_Java;/*
 Programa que lee tres números y los muestra en orden ascendente.
 20261030
 Hecho por Víctor Fabero Amaya
