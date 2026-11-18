@@ -1,0 +1,32 @@
+/*
+Programa que pide un número entero N entre 0 y 20 y muestra los números desde 1 hasta N, uno en cada línea, repitiendo cada número tantas veces como su valor.
+20261118
+Hecho por Víctor Fabero Amaya
+*/
+
+package UD5_Bucles;
+
+import java.util.Scanner;
+
+public class UD5T20_VFaberoAmaya_2Bucles {
+    public static void main(String[] args) {
+
+        int numero;
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Introduzca un número entre el 1 y el 20 y verá que ocurre: ");
+        numero = sc.nextInt();
+
+        if ((numero < 1) || (numero > 20)) {
+            System.out.println("Número no válido.");
+            System.exit(0);
+        }
+
+        for (int i = 1; i <= numero; i++) {
+            for (int j = 1; j <= i; j++) {
+                System.out.print(i);
+            }
+            System.out.println();
+        }
+    }
+}
