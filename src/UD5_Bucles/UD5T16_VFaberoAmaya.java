@@ -33,6 +33,6 @@ public class UD5T16_VFaberoAmaya {
             i++;
         }
 
-        System.out.printf((noEsPrimo)?("El número %d no es primo"):("El número %d es primo"), numero);
+        System.out.printf((noEsPrimo) ? ("El número %d no es primo") : ("El número %d es primo"), numero);
     }
 }

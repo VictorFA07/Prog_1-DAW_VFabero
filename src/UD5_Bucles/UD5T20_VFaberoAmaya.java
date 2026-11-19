@@ -28,7 +28,7 @@ public class UD5T20_VFaberoAmaya {
         }
 
         while (i <= numero) {
-            numeroChar = (char)i;
+            numeroChar = (char) i;
             cadenaNumeros = cadenaNumeros + numeroChar;
             System.out.printf("%s%n", cadenaNumeros);
             i++;

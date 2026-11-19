@@ -33,6 +33,6 @@ public class UD5T19_VFaberoAmaya {
             i++;
         } while (i <= numero);
 
-        System.out.println("\n"+ cadenaAsteriscos);
+        System.out.println("\n" + cadenaAsteriscos);
     }
 }
